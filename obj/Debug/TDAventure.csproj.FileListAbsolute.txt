@@ -1,0 +1,14 @@
+C:\Users\Pierre\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\bin\Debug\TDAventure.exe
+C:\Users\Pierre\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\bin\Debug\TDAventure.pdb
+C:\Users\Pierre\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\obj\Debug\TDAventure.csproj.AssemblyReference.cache
+C:\Users\Pierre\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\obj\Debug\TDAventure.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pierre\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\obj\Debug\TDAventure.csproj.CoreCompileInputs.cache
+C:\Users\Pierre\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\obj\Debug\TDAventure.exe
+C:\Users\Pierre\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\obj\Debug\TDAventure.pdb
+C:\Users\greta\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\bin\Debug\TDAventure.exe
+C:\Users\greta\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\bin\Debug\TDAventure.pdb
+C:\Users\greta\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\obj\Debug\TDAventure.csproj.AssemblyReference.cache
+C:\Users\greta\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\obj\Debug\TDAventure.csproj.SuggestedBindingRedirects.cache
+C:\Users\greta\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\obj\Debug\TDAventure.csproj.CoreCompileInputs.cache
+C:\Users\greta\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\obj\Debug\TDAventure.exe
+C:\Users\greta\OneDrive\##_Udemy\03_C#\#1_SessionUdemy\02_TDAventure\TDAventure\TDAventure\obj\Debug\TDAventure.pdb
